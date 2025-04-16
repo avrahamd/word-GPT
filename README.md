@@ -14,8 +14,6 @@
   </p>
 </div>
 
-English | [简体中文](https://github.com/Kuingsmile/word-GPT-Plus/blob/master/README_cn.md)
-
 ## 📋 Introduction
 
 Word GPT Plus seamlessly integrates AI models into Microsoft Word, allowing you to generate, translate, summarize, and polish text directly within your documents. Enhance your writing workflow without leaving your Word environment.
@@ -60,7 +58,6 @@ Word GPT Plus seamlessly integrates AI models into Microsoft Word, allowing you 
 
 #### API Access
 - **OpenAI**: Obtain an API key from [OpenAI Platform](https://platform.openai.com/account/api-keys)
-- **Azure OpenAI**: Apply for access at [Azure OpenAI Service](https://go.microsoft.com/fwlink/?linkid=2222006)
 - **Google Gemini**: Request API access from [Google AI Studio](https://developers.generativeai.google/)
 - **Groq**: Get your API key from [Groq Console](https://console.groq.com/keys)
 
