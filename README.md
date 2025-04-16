@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/Kuingsmile/word-GPT-Plus">
+  <a href="https://github.com/avrahamd/word-GPT">
     <img src="https://user-images.githubusercontent.com/96409857/233920113-b6919e19-484e-4a4b-82ff-5c72f7314025.png" alt="Logo" height="100">
   </a>
 
